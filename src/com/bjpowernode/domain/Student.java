@@ -6,4 +6,5 @@ package com.bjpowernode.domain;
  */
 public class Student {
     Integer id;
+    String name;
 }
